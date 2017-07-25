@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_old_new_price'
-  s.version     = '3.0.10'
+  s.version     = '3.0-stable'
   s.summary     = 'code to show old and new price'
   s.description = 'this is to show old and new price'
   s.required_ruby_version = '>= 2.1.0'
